@@ -18,7 +18,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
-import com.parag.mcucharacters.database.MyDatabaseHelper;
+import com.parag.mcucharacters.utils.MyDatabaseHelper;
 import com.parag.mcucharacters.ui.AddActivity;
 import com.parag.mcucharacters.ui.adapter.CustomAdapter;
 

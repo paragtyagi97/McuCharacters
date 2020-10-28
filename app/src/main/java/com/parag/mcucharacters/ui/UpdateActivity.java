@@ -13,7 +13,7 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.parag.mcucharacters.R;
-import com.parag.mcucharacters.database.MyDatabaseHelper;
+import com.parag.mcucharacters.utils.MyDatabaseHelper;
 
 public class UpdateActivity extends AppCompatActivity {
 

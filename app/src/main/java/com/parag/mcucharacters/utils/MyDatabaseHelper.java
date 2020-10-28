@@ -1,4 +1,4 @@
-package com.parag.mcucharacters.database;
+package com.parag.mcucharacters.utils;
 
 import android.content.ContentValues;
 import android.content.Context;

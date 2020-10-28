@@ -7,7 +7,7 @@ import android.widget.EditText;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.parag.mcucharacters.database.MyDatabaseHelper;
+import com.parag.mcucharacters.utils.MyDatabaseHelper;
 import com.parag.mcucharacters.R;
 
 public class AddActivity extends AppCompatActivity {
