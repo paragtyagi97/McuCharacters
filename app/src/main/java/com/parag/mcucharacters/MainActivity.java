@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
     ArrayList<String> Char_id, Char_name, Char_desc, Char_movies;
     CustomAdapter customAdapter;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
